@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LolFailKO352
 - 👀 I’m interested in developing games and addons
-- 🌱 I’m currently learning Programing in C++, C#
+- 🌱 I’m currently learning Programing in C++, C#, XAML
 - 📫 How to reach me: You can reach me at lolfail352@gmail.com
 
 <!---
